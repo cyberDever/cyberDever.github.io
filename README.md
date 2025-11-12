@@ -92,9 +92,9 @@ Email us at **info@m8s.pro** with the subject line: **"Laptop Hosting Partnershi
 
 Alternative contacts:
 
-Whatsapp: +1 (339) 800-7839
+Whatsapp: **+1 (339) 800-7839**
 
-Telegram: @m8sllc
+Telegram: **@m8sllc**
 
 Include a brief introduction about yourself and your interest.
 
