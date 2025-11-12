@@ -1,7 +1,7 @@
 # 💵 Turn Your Spare Laptop into Monthly Income
 
 Earn $1,000+ monthly by hosting a laptop for our remote development team.  
-No technical work required.
+No Technical work required.
 
 ---
 
@@ -12,13 +12,11 @@ No technical work required.
 We are a rapidly growing tech company with a team of senior developers boasting over 10 years of experience in software development. Our expertise spans backend and frontend development.
 
 We also specialize in DevOps automation and cutting-edge AI/ML solutions.
-
 To deliver top-quality work, we need reliable U.S.-based hardware infrastructure.
 
 ### Why U.S. Partnership?
 
 Many clients prefer working with U.S.-based technical infrastructure.
-
 This partnership gives us the necessary presence while creating passive income for you.
 
 Together, we can serve clients better and grow our business.
@@ -46,19 +44,16 @@ Prior experience in technical recruitment and Software development experiences w
 ### U.S.-Based Location
 
 Must be physically located in the United States.
-
 Stable, reliable internet connection required for remote access.
 
 ### Secure Hosting Capability
 
 Able to safely host a laptop in your home or office.
-
 Basic understanding of security and privacy practices preferred.
 
 ### Optional: Communication Skills
 
 Bonus opportunity if you're comfortable with client conversations.
-
 Professional communication style is a plus but not mandatory.
 
 > Don't worry if you don't meet every requirement. Basic tech capability and a secure location are the essentials.
@@ -95,8 +90,11 @@ Take on client communication too. Receive 50% of all generated income.
 
 Email us at **info@m8s.pro** with the subject line: **"Laptop Hosting Partnership Application"**
 
-Include a brief introduction about yourself and your interest.
+Alternative contacts:
+Whatsapp: +1 (339) 800-7839
+Telegram: @m8sllc
 
+Include a brief introduction about yourself and your interest.
 We'll respond within 1 business day with next steps.
 
 
