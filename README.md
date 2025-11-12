@@ -91,10 +91,13 @@ Take on client communication too. Receive 50% of all generated income.
 Email us at **info@m8s.pro** with the subject line: **"Laptop Hosting Partnership Application"**
 
 Alternative contacts:
+
 Whatsapp: +1 (339) 800-7839
+
 Telegram: @m8sllc
 
 Include a brief introduction about yourself and your interest.
+
 We'll respond within 1 business day with next steps.
 
 
