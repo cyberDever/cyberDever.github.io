@@ -27,6 +27,32 @@
 
       </section>
       <footer>
+        <div class="site-contact">
+          <p>
+            Contact:
+            {% if site.telegram %}
+              {% if site.telegram contains 'http' %}
+                <a href="{{ site.telegram }}" target="_blank" rel="noopener">Telegram</a>
+              {% else %}
+                <a href="https://t.me/{{ site.telegram }}" target="_blank" rel="noopener">Telegram</a>
+              {% endif %}
+            {% endif %}
+
+            {% if site.whatsapp %}
+              {% if site.whatsapp contains 'http' %}
+                <a href="{{ site.whatsapp }}" target="_blank" rel="noopener">WhatsApp</a>
+              {% else %}
+                {% assign wa_number = site.whatsapp | remove: '+' | remove: ' ' | remove: '-' %}
+                <a href="https://wa.me/{{ wa_number }}" target="_blank" rel="noopener">WhatsApp</a>
+              {% endif %}
+            {% endif %}
+
+            {% if site.email %}
+              <a href="mailto:{{ site.email }}">Email</a>
+            {% endif %}
+          </p>
+          <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+        </div>
       </footer>
     </div>
     <script src="{{ "/assets/js/scale.fix.js" | relative_url }}"></script>
